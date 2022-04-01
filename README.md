@@ -7,5 +7,5 @@
 - 💬 Ask me about Xamarin Forms and MAUI
 - 📫 How to reach me: https://twitter.com/BenBtg
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: ...
+
 
