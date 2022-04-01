@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**BenBtg/BenBtg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BenBtg/BenBtg**
 
 - 🔭 I’m currently working on .Net MAUI
 - 🌱 I’m currently learning Flutter
