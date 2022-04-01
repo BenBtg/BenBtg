@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-**BenBtg/BenBtg**
-
 - 🔭 I’m currently working on .Net MAUI
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about Xamarin Forms and MAUI
